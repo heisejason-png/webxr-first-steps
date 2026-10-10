@@ -146,5 +146,5 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to contribut
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
